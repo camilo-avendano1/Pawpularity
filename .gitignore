@@ -1,0 +1,6 @@
+# Ignorar archivos relacionados con checkpoints
+hyperband_dir/*
+hyperband_dir_v2/*
+checkpoint
+checkpoint.*
+trial*.json
