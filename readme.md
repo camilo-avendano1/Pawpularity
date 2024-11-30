@@ -1,6 +1,6 @@
 # Descripción del Reto para el Curso
 
-##Video presentaicon del proyecto
+## Video presentacion del proyecto
 [Proyecto Deep Learning 20242](https://youtu.be/7ljLsiDuCXc)
 
 ## Propósito
