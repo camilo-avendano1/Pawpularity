@@ -1,5 +1,8 @@
 # Descripción del Reto para el Curso
 
+##Video presentaicon del proyecto
+[Proyecto Deep Learning 20242](https://youtu.be/7ljLsiDuCXc)
+
 ## Propósito
 Una imagen puede marcar la diferencia para miles de animales callejeros que buscan un hogar. Las fotos más atractivas de mascotas tienen más probabilidades de generar interés y acelerar su adopción. Pero, ¿qué hace que una foto sea buena? A través de técnicas de **Deep Learning**, podemos determinar con precisión el atractivo de una foto de mascota y sugerir mejoras que aumenten sus posibilidades de ser adoptadas.
 
